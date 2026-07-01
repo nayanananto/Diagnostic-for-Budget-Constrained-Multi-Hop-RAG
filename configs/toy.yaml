@@ -1,0 +1,7 @@
+dataset: toy
+embedder: lexical
+compressor: identity
+top_k: 5
+top_k_nodes: 8
+max_expanded_docs: 5
+

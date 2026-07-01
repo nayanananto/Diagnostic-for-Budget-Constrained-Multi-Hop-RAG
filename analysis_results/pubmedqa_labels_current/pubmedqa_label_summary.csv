@@ -1,0 +1,6 @@
+policy,questions,scorable_questions,gold_label_coverage,label_accuracy,label_macro_f1,gold_yes,gold_no,gold_maybe,gold_ambiguous,pred_yes,pred_no,pred_maybe,pred_unparsed,baseline_policy,delta_label_accuracy_vs_baseline,delta_label_macro_f1_vs_baseline
+ace_focused_160,200,119,0.595,0.2101,0.1576,90,39,3,68,34,1,139,26,chunk_packed_160,0.0184,0.0118
+ace_packed_160,200,122,0.61,0.2295,0.1702,90,39,3,68,38,2,142,18,chunk_packed_160,0.0378,0.0244
+chunk_packed_160,200,120,0.6,0.1917,0.1458,90,39,3,68,31,1,145,23,chunk_packed_160,0.0,0.0
+router_oracle,200,117,0.585,0.2821,0.2034,90,39,3,68,41,1,129,29,chunk_packed_160,0.0904,0.0576
+router_rule,200,122,0.61,0.1967,0.1505,90,39,3,68,32,1,149,18,chunk_packed_160,0.005,0.0047

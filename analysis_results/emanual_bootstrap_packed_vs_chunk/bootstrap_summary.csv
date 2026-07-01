@@ -1,0 +1,2 @@
+questions,observed_delta_f1,delta_f1_ci_low,delta_f1_ci_high,f1_positive_rate,observed_delta_em,delta_em_ci_low,delta_em_ci_high,em_positive_rate,left_policy,right_policy,samples,seed,predictions_file
+66,0.008673,-0.009157,0.026498,0.8215,0.0,0.0,0.0,0.0,ace_packed_160,chunk_packed_160,2000,123,C:\Users\Admin\Desktop\da_project\_tmp_thesis_code_repo\kaggle_results\latest\colab_results\stage3_cross_ragbench_emanual_budget160_limit200_qwen3b\ragbench_stage3_router_standard_limit200_predictions.jsonl

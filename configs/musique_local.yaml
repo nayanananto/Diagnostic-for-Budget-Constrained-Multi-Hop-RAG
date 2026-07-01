@@ -1,0 +1,11 @@
+dataset: musique_local
+musique_path: data/raw/musique.jsonl
+limit: 300
+embedder: sentence-transformers
+embedding_model: BAAI/bge-small-en-v1.5
+compressor: pca
+compress_dims: 128
+top_k: 5
+top_k_nodes: 12
+max_expanded_docs: 5
+
