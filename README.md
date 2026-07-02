@@ -6,10 +6,9 @@
 
 ### A Diagnostic for Budget-Constrained Multi-Hop RAG
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2607.00725-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.00725)
 [![Python](https://img.shields.io/badge/python-3.10-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-3da638?style=flat-square)](LICENSE)
 
 *When does packing evidence smartly beat grabbing the top snippets — and how do you even measure it?*
 
@@ -211,8 +210,9 @@ All experiments ran on **2× Tesla T4** (15 GB each) via Kaggle.
 @article{acerag2026,
   title   = {What Survives Into Context: A Diagnostic for Budget-Constrained Multi-Hop RAG},
   author  = {Anonymous},
+  journal = {arXiv preprint arXiv:2607.00725},
   year    = {2026}
 }
 ```
 
-*(update with the real arXiv ID once available)*
+*(update `author` with your name)*
