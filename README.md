@@ -206,15 +206,14 @@ All experiments ran on **2× Tesla T4** (15 GB each) via Kaggle.
 
 ## 📄 Citation
 
-```@misc{bala2026survivescontextdiagnosticbudgetconstrained,
-      title={What Survives Into Context: A Diagnostic for Budget-Constrained Multi-Hop RAG and When Submodular Evidence Packing Improves It}, 
+```bibtex
+@misc{bala2026survivescontextdiagnosticbudgetconstrained,
+      title={What Survives Into Context: A Diagnostic for Budget-Constrained Multi-Hop RAG and When Submodular Evidence Packing Improves It},
       author={Ananto Nayan Bala},
       year={2026},
       eprint={2607.00725},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2607.00725}, 
+      url={https://arxiv.org/abs/2607.00725},
 }
 ```
-
-*(update `author` with your name)*
